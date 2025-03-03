@@ -1,3 +1,3 @@
 print("Jambo Tanzania")
-print("Jambo tanzania")
+print("teacher your too fast")
 
